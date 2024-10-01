@@ -21,6 +21,12 @@
 ![Static Badge](https://img.shields.io/badge/Figma-red?logo=figma&logoColor=white) 
 
 ---
+### ♥️ Connect with me! 
 
-![http://www.linkedin.com/in/kylie-farrell-809bb230b](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)
 
+
+![Static Badge](https://img.shields.io/badge/Steam-white?logo=Steam&logoColor=blue)
+
+
+![Static Badge](https://img.shields.io/badge/Spotify-black?logo=Spotify&logoColor=Green)
