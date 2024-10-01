@@ -24,8 +24,5 @@
 ### ♥️ Connect with me! 
 
 [![Static Badge](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/kylie-farrell-809bb230b)
-
-![Static Badge](https://img.shields.io/badge/Steam-white?logo=Steam&logoColor=blue)
-
-
-![Static Badge](https://img.shields.io/badge/Spotify-black?logo=Spotify&logoColor=Green)
+    [![Static Badge](https://img.shields.io/badge/Steam-white?logo=Steam&logoColor=blue)](https://steamcommunity.com/id/kylieaimee/)
+[![Static Badge](https://img.shields.io/badge/Spotify-black?logo=Spotify&logoColor=Green)](https://open.spotify.com/user/kiwi_art_2003?si=b9ab59c8998f4ee1)
