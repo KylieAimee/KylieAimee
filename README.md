@@ -17,7 +17,10 @@
 ### 🧸 Tools I use 
 
 ![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-orange?logo=adobe%20illustrator&logoColor=black) 
-
 ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-blue?logo=adobe%20photoshop&logoColor=black) 
-
 ![Static Badge](https://img.shields.io/badge/Figma-red?logo=figma&logoColor=white) 
+
+---
+
+![http://www.linkedin.com/in/kylie-farrell-809bb230b](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)
+
