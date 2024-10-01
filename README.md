@@ -10,4 +10,14 @@
 
 👾 ~~Struggling~~ Learning to Code 
 
-✨ Outside of school I enjoy gaming (Field of Mistria / Stardew Valley / Risk of Rain *to name a few*) 
+✨ Outside of school I enjoy gaming (Fields of Mistria / Stardew Valley / Risk of Rain *to name a few*) 
+
+---
+
+### 🧸 Tools I use 
+
+![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-orange?logo=adobe%20illustrator&logoColor=black) 
+
+![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-blue?logo=adobe%20photoshop&logoColor=black) 
+
+![Static Badge](https://img.shields.io/badge/Figma-red?logo=figma&logoColor=white) 
