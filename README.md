@@ -12,6 +12,7 @@
 
 ✨ Outside of school I enjoy gaming (Fields of Mistria / Stardew Valley / Risk of Rain *to name a few*) 
 
+![Game Image](Images/Stardew.png)
 ---
 
 ### 🧸 Tools I use 
