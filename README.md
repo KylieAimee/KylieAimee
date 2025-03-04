@@ -10,7 +10,7 @@
 
 👾 ~~Struggling~~ Learning to Code 
 
-✨ Outside of school I enjoy gaming (Fields of Mistria / Stardew Valley / Risk of Rain *to name a few*) 
+✨ Outside of school I enjoy gaming (Fields of Mistria / Stardew Valley / Cult of the Lamb *to name a few*) 
 
 ![Game Image](Images/Stardew.png)
 ---
